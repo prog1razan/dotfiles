@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = razan1razan@gmail.com
+	name = Razan Alothaim
